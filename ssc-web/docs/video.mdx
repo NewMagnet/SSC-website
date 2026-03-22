@@ -1,0 +1,93 @@
+---
+title: 服务器精彩视频
+---
+
+import React, { useState, useEffect } from 'react';
+import styles from './video.module.css';
+
+export const VideoCard = ({ title, coverImage, link, description, videoTitle }) => {
+  return (
+    <div className={styles.videoCard}>
+      <h3 className={styles.videoTitle}>
+        {title}
+      </h3>
+      <div className={styles.imageContainer}>
+        <img 
+          src={coverImage} 
+          alt={title}
+          className={styles.videoImage}
+        />
+      </div>
+      <a 
+        href={link}
+        target="_blank"
+        rel="noopener noreferrer"
+        className={styles.videoLink}
+      >
+        {videoTitle}
+      </a>
+      <p className={styles.videoDescription}>
+        {description}
+      </p>
+    </div>
+  );
+};
+
+export const VideoSection = ({ title, videos }) => {
+  return (
+    <div>
+      <h1 className={styles.sectionTitle}>{title}</h1>
+      <div className={styles.videoGrid}>
+        {videos.map((video) => (
+          <VideoCard key={video.id} {...video} />
+        ))}
+      </div>
+    </div>
+  );
+};
+
+export const VideoGallery = () => {
+  const [videosData, setVideosData] = useState({});
+  const [loading, setLoading] = useState(true);
+  const [error, setError] = useState(null);
+
+  useEffect(() => {
+    fetch('/api/videos')
+      .then(response => {
+        if (!response.ok) {
+          throw new Error('Failed to fetch videos data');
+        }
+        return response.json();
+      })
+      .then(data => {
+        setVideosData(data);
+        setLoading(false);
+      })
+      .catch(err => {
+        setError(err.message);
+        setLoading(false);
+      });
+  }, []);
+
+  if (loading) {
+    return <div className={styles.loading}>加载中...</div>;
+  }
+
+  if (error) {
+    return <div className={styles.error}>错误: {error}</div>;
+  }
+
+  return (
+    <div className={styles.container}>
+      {Object.entries(videosData).map(([sectionTitle, videos]) => (
+        <VideoSection 
+          key={sectionTitle} 
+          title={sectionTitle} 
+          videos={videos} 
+        />
+      ))}
+    </div>
+  );
+};
+
+<VideoGallery />

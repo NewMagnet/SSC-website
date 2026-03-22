@@ -1,0 +1,232 @@
+[
+  {
+    "id": 1,
+    "name": "NewMagnet",
+    "description": "服务器创始人，物理机服主，<del>最佳后勤</del><br/><a href=\"https://space.bilibili.com/592023224\">B站主页</a> <a href=\"http://live.bilibili.com/1713683922\">B站直播间</a>",
+    "role": "NM",
+    "skills": ["后勤"],
+    "docPath": "/docs/服成员简介/NewMagnet",
+    "avatar": "https://littleskin.cn/avatar/player/NewMagnet",
+    "cardImage": "/img/person/NewMagnet-card.png"
+  },
+  {
+    "id": 2,
+    "name": "LiFr",
+    "description": "各个领域都有所涉猎的菜菜萌新<br/><a href=\"https://space.bilibili.com/332888795\">B站主页</a>",
+    "role": "Li4",
+    "skills": ["建筑","指令","红石"],
+    "docPath": "/docs/服成员简介/LiFr",
+    "avatar": "https://littleskin.cn/avatar/player/LiFr",
+    "cardImage": "/img/person/LiFr-card.png"
+  },
+  {
+    "id": 3,
+    "name": "CR400BFA2021",
+    "description": "交通迷，城市计划发起者<br/><a href=\"https://space.bilibili.com/362063911\">B站主页</a>",
+    "role": "BFA",
+    "skills": ["建筑","交通"],
+    "docPath": "/docs/服成员简介/CR400BFA2021",
+    "avatar": "https://littleskin.cn/avatar/player/CR400BFA2021",
+    "cardImage": "/img/person/CR400BFA2021-card.png"
+  },
+  {
+    "id": 4,
+    "name": "rhnmabj",
+    "description": "SSC掌管红石的神<br/><a href=\"https://space.bilibili.com/1208430901\">B站主页</a>",
+    "role": "以实玛利",
+    "skills": ["红石","后勤"],
+    "docPath": "/docs/服成员简介/rhnmabj",
+    "avatar": "https://littleskin.cn/avatar/player/rhnmabj",
+    "cardImage": "/img/person/rhnmabj-card.png"
+  },
+  {
+    "id": 5,
+    "name": "Alicia_X",
+    "description": "SSC建筑领域的唯一真神<br/><a href=\"https://space.bilibili.com/1071680567\">B站主页</a>",
+    "role": "Cl",
+    "skills": ["建筑"],
+    "docPath": "/docs/服成员简介/Alicia_X",
+    "avatar": "https://littleskin.cn/avatar/player/Alicia_X",
+    "cardImage": "/img/person/Alicia_X-card.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Frozen_Sun",
+    "description": "打舞萌的平滑石仙人<br/><a href=\"https://space.bilibili.com/438281125\">B站主页</a>",
+    "role": "佛怎桑",
+    "skills": ["平滑石半砖","建筑","awmc"],
+    "docPath": "/docs/服成员简介/Frozen_Sun",
+    "avatar": "https://littleskin.cn/avatar/player/Frozen_Sun",
+    "cardImage": "/img/person/Frozen_Sun-card.jpg"
+  },
+  {
+    "id": 7,
+    "name": "H_ILLusion",
+    "description": "《甲乙两队同时施工》<br/><a href=\"https://space.bilibili.com/1772862057\">B站主页</a><br/>（乱入：感谢大佬带我打乌蒙！ QAQ",
+    "role": "光的对立面",
+    "skills": ["建筑", "难道说？"],
+    "docPath": "/docs/服成员简介/H_ILLusion",
+    "avatar": "https://littleskin.cn/avatar/player/H_ILLusion",
+    "cardImage": "/img/person/H_ILLusion-card.png"
+  },
+  {
+    "id": 8,
+    "name": "HdgFlsh",
+    "description": "服务端资源包配置支持，全能后勤，省实验计划致德楼负责人<br/><a href=\"https://space.bilibili.com/398169827\">B站主页</a>",
+    "role": "哈德狗鱼",
+    "skills": ["建筑","后勤","服务端配置"],
+    "docPath": "/docs/服成员简介/HdgFlsh",
+    "avatar": "https://littleskin.cn/avatar/player/HdgFlsh",
+    "cardImage": "/img/person/HdgFlsh-card.png"
+  },
+  {
+    "id": 9,
+    "name": "wsadikjl_ZXC",
+    "description": "车万人，PVZ厨，优秀后勤，<del>凝灰岩仙人</del><br/><a href=\"https://space.bilibili.com/1070154050\">B站主页</a>",
+    "role": "ZXC",
+    "skills": ["建筑","后勤","凝灰岩","baka"],
+    "docPath": "/docs/服成员简介/wsadikjl_ZXC",
+    "avatar": "https://littleskin.cn/avatar/player/wsadikjl_ZXC",
+    "cardImage": "/img/person/wsadikjl_ZXC-card.png"
+  },
+  {
+    "id": 10,
+    "name": "EverStay",
+    "description": "SSC专业艺术顾问</del><br/><a href=\"https://space.bilibili.com/477153735\">B站主页</a>",
+    "role": "es",
+    "skills": ["美工"],
+    "docPath": "/docs/服成员简介/EverStay",
+    "avatar": "https://littleskin.cn/avatar/player/EverStay",
+    "cardImage": "/img/person/EverStay-card.png"
+  },
+  {
+    "id": 11,
+    "name": "sedatemickey",
+    "description": "SSC服务器配置与插件的技术之神<br/><a href=\"https://space.bilibili.com/126049979\">B站主页</a>",
+    "role": "Mickey",
+    "skills": ["服务端","插件"],
+    "docPath": "/docs/服成员简介/sedatemickey",
+    "avatar": "https://littleskin.cn/avatar/player/sedatemickey",
+    "cardImage": "/img/person/sedatemickey-card.png"
+  },
+  {
+    "id": 12,
+    "name": "r000",
+    "description": "SSC掌管轰炸机的神<br/><a href=\"https://space.bilibili.com/502083780\">B站主页</a>",
+    "role": "凯爷",
+    "skills": ["轰炸机","后勤"],
+    "docPath": "/docs/服成员简介/r000",
+    "avatar": "https://littleskin.cn/avatar/player/r000",
+    "cardImage": "/img/person/r000-card.png"
+  },
+  {
+    "id": 13,
+    "name": "White_Shiroko",
+    "description": "为SSC播下了二游建筑的种子<br/><a href=\"https://space.bilibili.com/3494365102082859\">B站主页</a>",
+    "role": "白子",
+    "skills": ["建筑"],
+    "docPath": "/docs/服成员简介/White_Chessman",
+    "avatar": "https://littleskin.cn/avatar/player/White_Shiroko",
+    "cardImage": "/img/person/White_Chessman-card.png"
+  },
+  {
+    "id": 14,
+    "name": "Featheraaa",
+    "description": "羊驼小队队长<br/><a href=\"https://space.bilibili.com/581657800\">B站主页</a>",
+    "role": "羽毛",
+    "skills": ["建筑"],
+    "docPath": "/docs/服成员简介/Featheraaa",
+    "avatar": "https://littleskin.cn/avatar/player/Featheraaa",
+    "cardImage": "/img/person/Featheraaa-card.png"
+  },
+  {
+    "id": 15,
+    "name": "MinecraftBC",
+    "description": "服务器掌管TNT的神<br/><a href=\"https://space.bilibili.com/1045809793\">B站主页</a>",
+    "role": "BC",
+    "skills": ["TNT","小游戏","资源包"],
+    "docPath": "/docs/服成员简介/MinecraftBC",
+    "avatar": "https://littleskin.cn/avatar/player/MinecraftBC",
+    "cardImage": "/img/person/MinecraftBC-card.png"
+  },
+  {
+    "id": 16,
+    "name": "MarkBirdFly",
+    "description": "服务器插件支持与小游戏地图赞助<br/><a href=\"https://space.bilibili.com/696361004\">B站主页</a>",
+    "role": "MBF",
+    "skills": ["插件","小游戏"],
+    "docPath": "/docs/服成员简介/MarkBirdFly",
+    "avatar": "https://littleskin.cn/avatar/player/MarkBirdFly",
+    "cardImage": "/img/person/MarkBirdFly-card.png"
+  },
+  {
+    "id": 17,
+    "name": "Sakaue_Sakura",
+    "description": "1.16.1专业速通玩家<br/><a href=\"https://space.bilibili.com/400070584\">B站主页</a> <a href=\"https://live.bilibili.com/1970740920\">B站直播间</a>",
+    "role": "sakura酱",
+    "skills": ["速通","建筑"],
+    "docPath": "/docs/服成员简介/Sakaue_Sakura",
+    "avatar": "https://littleskin.cn/avatar/player/Sakaue_Sakura",
+    "cardImage": "/img/person/Sakaue_Sakura-card.png"
+  },
+  {
+    "id": 18,
+    "name": "Ktyo_",
+    "description": "究极密室杀手<br/><a href=\"https://space.bilibili.com/620056502\">B站主页</a>",
+    "role": "Kyto",
+    "skills": ["小游戏","建筑","密室杀手"],
+    "docPath": "/docs/服成员简介/Ktyo_",
+    "avatar": "https://littleskin.cn/avatar/player/Ktyo_",
+    "cardImage": "/img/person/Ktyo_-card.png"
+  },
+  {
+    "id": 19,
+    "name": "192024stx",
+    "description": "最伟大的工人！<br/><a href=\"https://space.bilibili.com/3546756046391592\">B站主页</a>",
+    "role": "stx",
+    "skills": ["建筑","后勤"],
+    "docPath": "/docs/服成员简介/192024stx",
+    "avatar": "https://littleskin.cn/avatar/player/192024stx",
+    "cardImage": "/img/person/192024stx-card.png"
+  },
+  {
+    "id": 20,
+    "name": "C1fErA",
+    "description": "欢迎光临小酒馆！<br/><a href=\"https://space.bilibili.com/512131051\">B站主页</a> <a href=\"https://live.bilibili.com/1791269014\">B站直播间</a>",
+    "role": "薯薯",
+    "skills": ["建筑"],
+    "docPath": "/docs/服成员简介/ShUodeDa0lI",
+    "avatar": "https://littleskin.cn/avatar/player/C1fErA",
+    "cardImage": "/img/person/ShUodeDa0lI-card.png"
+  },
+  {
+    "id": 21,
+    "name": "LiFv",
+    "description": "LiFr的弟弟，小建筑热爱者",
+    "role": "Li5",
+    "skills": ["建筑"],
+    "docPath": "/docs/服成员简介/LiFv", 
+    "avatar": "https://littleskin.cn/avatar/player/LiFv",
+    "cardImage": "/img/person/LiFv-card.png"
+  },
+  {
+    "id": 22,
+    "name": "switch7",
+    "description": "EverStay的同学，蠢猪一只",
+    "role": "switch",
+    "skills": ["蠢猪","建筑"],
+    "docPath": "/docs/服成员简介/switch7", 
+    "avatar": "https://littleskin.cn/avatar/player/switch7",
+    "cardImage": "/img/person/switch7-card.png"
+  },
+  {
+    "id": 22,
+    "name": "a350_ti",
+    "description": "LDC服务器腐竹<br/><a href=\"https://space.bilibili.com/396751291\">B站主页</a>",
+    "role": "swk",
+    "skills": ["插件"],
+    "docPath": "/docs/服成员简介/a350_ti",
+    "avatar": "https://littleskin.cn/avatar/player/a350_ti",
+    "cardImage": "/img/person/a350_ti-card.png"
+  }
+]

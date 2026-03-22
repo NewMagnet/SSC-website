@@ -1,0 +1,215 @@
+{
+  "庆典视频": [
+    {
+      "id": 1,
+      "title": "开服一千天纪念",
+      "videoTitle": "岁月如梭，人生如梦——Starry Sakura Craft服务器开服1000天宣传片",
+      "coverImage": "/img/video_1kday.jpg",
+      "link": "https://www.bilibili.com/video/BV1jqNFzdEvx",
+      "description": "by Alicia_X、EverStay",
+      "type": "庆典视频"
+    },
+    {
+      "id": 2,
+      "title": "2026春节贺岁",
+      "videoTitle": "【SSC】Starry Sakura Craft服务器2026春节贺岁片",
+      "coverImage": "/img/video_2026chunjie.jpg",
+      "link": "https://www.bilibili.com/video/BV15SZLB7E7N",
+      "description": "by NewMagnet、EverStay",
+      "type": "庆典视频"
+    },
+    {
+      "id": 3,
+      "title": "两周年纪念",
+      "videoTitle": "【SSC】Starry Sakura Craft服务器两周年纪念视频",
+      "coverImage": "/img/video_erzhounian.jpg",
+      "link": "https://www.bilibili.com/video/BV1CxNmzBEYy",
+      "description": "by NewMagnet、Sakaue_Sakura",
+      "type": "庆典视频"
+    },
+    {
+      "id": 4,
+      "title": "两周年影像集",
+      "videoTitle": "[ Starry Sakura Craft ] × 卡农 | 一个生电服一年多以来的影像记录",
+      "coverImage": "/img/SSC_icon.jpg",
+      "link": "https://www.bilibili.com/video/BV129KPzWEdT",
+      "description": "by Alicia_X",
+      "type": "庆典视频"
+    },
+    {
+      "id": 5,
+      "title": "2025春节贺岁",
+      "videoTitle": "【SSC】Starry Sakura Craft服务器2025春节贺岁视频",
+      "coverImage": "/img/video_2025chunjie.jpg",
+      "link": "https://www.bilibili.com/video/BV1YPFse7Ext",
+      "description": "by NewMagnet",
+      "type": "庆典视频"
+    },
+    {
+      "id": 6,
+      "title": "LiFr的SSC一年",
+      "videoTitle": "【Minecraft】这是一个服务器萌新275天的游玩记录_(:D)∠)_",
+      "coverImage": "/img/video_lifr275.jpg",
+      "link": "https://www.bilibili.com/video/BV1uspre7EK8",
+      "description": "by LiFr",
+      "type": "庆典视频"
+    },
+    {
+      "id": 7,
+      "title": "一周年纪念",
+      "videoTitle": "【Starry Sakura Craft】一周年庆典！ 一年来，我们在这个世界都做了什么？",
+      "coverImage": "/img/video_yizhounian.jpg",
+      "link": "https://www.bilibili.com/video/BV1UNg8eEEto",
+      "description": "by C_orange",
+      "type": "庆典视频"
+    },
+    {
+      "id": 8,
+      "title": "2024新年贺岁",
+      "videoTitle": "【Starry Sakura Craft】开服半年，一群高三学生党在服务器里干了什么？----SSC服务器2023贺岁视频",
+      "coverImage": "/img/video_2024xinnian.jpg",
+      "link": "https://www.bilibili.com/video/BV1jb4y1G7qJ",
+      "description": "by NewMagnet",
+      "type": "庆典视频"
+    }
+  ],
+  "精彩瞬间": [
+    {
+      "id": 9,
+      "title": "《甲乙两队同时施工》",
+      "videoTitle": "《甲乙两队同时施工》【SSC日记番外#2】",
+      "coverImage": "/img/video_jiayiliangdui.jpg",
+      "link": "https://www.bilibili.com/video/BV162M6zQE1d",
+      "description": "大概是SSC最火的视频了（x）\nby H_ILLusion",
+      "type": "精彩瞬间"
+    },
+    {
+      "id": 10,
+      "title": "致学楼下的地道传说",
+      "videoTitle": "【赛博补档】桃花源的救赎----山东省实验中学地道记【SSC】",
+      "coverImage": "/img/video_taohuayuanjiushu.jpg",
+      "link": "https://www.bilibili.com/video/BV1i1NzeVEWs",
+      "description": "当年这个洞就是SSC测绘省实验时发现的\nby NewMagnet",
+      "type": "精彩瞬间"
+    },
+    {
+      "id": 11,
+      "title": "哪里有战双帕弥什？",
+      "videoTitle": "【Minecraft/抽象生存小记】MC×战双帕弥什：在MC里拥有一只大头娃娃赛琳娜！",
+      "coverImage": "/img/video_zhanshuangpamishi.jpg",
+      "link": "https://www.bilibili.com/video/BV1p48RzEEPi",
+      "description": "LiFr老师又一力作\nby LiFr",
+      "type": "精彩瞬间"
+    },
+    {
+      "id": 12,
+      "title": "甲乙两队同时施工2.0",
+      "videoTitle": "《甲乙两队同时施工但是甲队建了乙队拆》【SSC#1】",
+      "coverImage": "/img/video_jiayiliangdui_2.jpg",
+      "link": "https://www.bilibili.com/video/BV1Gu8fzjEtF",
+      "description": "平滑石台阶仙人诞生记\nby Frozen_Sun",
+      "type": "精彩瞬间"
+    },
+    {
+      "id": 13,
+      "title": "我在SSC开机厅",
+      "videoTitle": "这个mod东西好多……等等，机厅？！？？【SSC日记番外#1】",
+      "coverImage": "/img/video_jiting.jpg",
+      "link": "https://www.bilibili.com/video/BV1s8MVzUEQm",
+      "description": "awmc\nby H_ILLusion",
+      "type": "精彩瞬间"
+    },
+    {
+      "id": 14,
+      "title": "如何在迷宫内PVP",
+      "videoTitle": "【Starry Sakura Craft】服务器三人混战PVP的小片段",
+      "coverImage": "/img/video_pvpmaze.jpg",
+      "link": "https://www.bilibili.com/video/BV1Gc411o7gp",
+      "description": "PVP迷宫珍贵印象\nby NewMagnet",
+      "type": "精彩瞬间"
+    },
+    {
+      "id": 15,
+      "title": "MC中的阿拜多斯",
+      "videoTitle": "耗时两周，我在服务器里还原了阿拜多斯！【SSC日记#5】",
+      "coverImage": "/img/video_abaiduosi.jpg",
+      "link": "https://www.bilibili.com/video/BV1fs3cz5E7h",
+      "description": "PVP迷宫珍贵印象\nby H_ILLusion",
+      "type": "精彩瞬间"
+    },
+    {
+      "id": 16,
+      "title": "是谁在MC中造了个舞萌山",
+      "videoTitle": "耗时6h+，我在MC复刻了一台舞萌dx【SSC#2】",
+      "coverImage": "/img/video_wumengshan.jpg",
+      "link": "https://www.bilibili.com/video/BV1i5htzvEaV",
+      "description": "awmc\nby Frozen_Sun",
+      "type": "精彩瞬间"
+    },
+    {
+      "id": 17,
+      "title": "小游戏服躲猫猫",
+      "videoTitle": "方块躲猫猫，但是躲藏方会「飞檐走壁」！（bushi）【SSC日记小游戏派对#1】",
+      "coverImage": "/img/video_duomaomao_1.jpg",
+      "link": "https://www.bilibili.com/video/BV1hc3vzfEWB",
+      "description": "伪无敌点位珍贵影像\nby H_ILLusion",
+      "type": "精彩瞬间"
+    },
+    {
+      "id": 18,
+      "title": "switch口嗨被ganked真实影像",
+      "videoTitle": "【SSC日常】补药随意口嗨",
+      "coverImage": "/img/switchxhc.jpg",
+      "link": "https://www.bilibili.com/video/BV1PGZtBwEm6",
+      "description": "switch最终还是在新海城完工前就下服了\nby EverStay",
+      "type": "精彩瞬间"
+    }
+  ],
+  "直播精选": [
+    {
+      "id": 19,
+      "title": "BC秘制材质包！",
+      "videoTitle": "【SSC】拆世吞与BC的秘制包与不断装错的小三向",
+      "coverImage": "/img/stream_20250512.jpg",
+      "link": "https://www.bilibili.com/video/BV162M6zQE1d",
+      "description": "feat.NewMagnet、MinecraftBC",
+      "type": "直播精选"
+    },
+    {
+      "id": 20,
+      "title": "速通玩家在生存服建起了猪堡",
+      "videoTitle": "在服务器建猪堡？下",
+      "coverImage": "/img/stream_20250627_sakaue_sakura.jpg",
+      "link": "https://www.bilibili.com/video/BV1MwK1z3EtM",
+      "description": "feat.Sakaue_Sakura、NewMagnet",
+      "type": "直播精选"
+    },
+    {
+      "id": 21,
+      "title": "SSC小游戏大赛！",
+      "videoTitle": "【SSC】SSC服务器小游戏大赛全程回放",
+      "coverImage": "/img/stream_20250121_newmagnet.jpg",
+      "link": "https://www.bilibili.com/video/BV1h2wxesELT",
+      "description": "feat.好多人（x）",
+      "type": "直播精选"
+    },
+    {
+      "id": 22,
+      "title": "老bingo服的最后一舞（x）",
+      "videoTitle": "SSCbingo+矿工团【SSC直播回放#2丨P1】",
+      "coverImage": "/img/stream_20250804_frozen_sun.jpg",
+      "link": "https://www.bilibili.com/video/BV1vhtLzsEMk",
+      "description": "feat.H_ILLusion、NewMagnet、Frozen_Sun、Featheraaa、wsadikjl_ZXC",
+      "type": "直播精选"
+    },
+    {
+      "id": 23,
+      "title": "生物博物馆动物房建造实录",
+      "videoTitle": "【直播回放】SSC生物博物馆建造回放",
+      "coverImage": "/img/stream_20250804_newmagnet.jpg",
+      "link": "https://www.bilibili.com/video/BV1qstLzbEnx",
+      "description": "feat.H_ILLusion、NewMagnet（以及几个打电话的）",
+      "type": "直播精选"
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+.heroBanner {
+  background: url('/img/background.png') center/cover fixed no-repeat;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  color: white;
+  position: relative;
+  padding-bottom: 16rem;
+  z-index: 1;
+}
+
+.sidebar {
+  z-index: 9999;
+}
+
+.heroContent {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 4rem;
+  max-width: 1200px;
+  margin: 0 auto;
+  width: 100%;
+}
+
+.heroLeft {
+  flex: 1;
+  text-align: left;
+}
+
+.heroImage {
+  margin-bottom: 2rem;
+}
+
+.heroImage img {
+  width: 120px;
+  height: 120px;
+  object-fit: cover;
+  border-radius: 50%;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
+}
+
+.heroTitle {
+  font: normal 4rem/1.2 'Minecraft', monospace;
+  margin: 0 0 1rem 0;
+  color: white;
+  text-shadow: 2px 2px 0px #000, 4px 4px 0px rgba(0, 0, 0, 0.5);
+  letter-spacing: 1px;
+}
+
+.heroSubtitle {
+  font: normal 1.5rem/1.3 'Minecraft', monospace;
+  margin: 0;
+  color: rgba(255, 255, 255, 0.9);
+  text-shadow: 1px 1px 0px #000, 2px 2px 0px rgba(0, 0, 0, 0.5);
+  letter-spacing: 1px;
+}
+
+.footnote {
+  position: absolute;
+  bottom: 30px;
+  left: 50%;
+  transform: translateX(-50%);
+  color: white;
+  animation: bounce 2s infinite;
+}
+
+@keyframes bounce {
+  0%, 20%, 50%, 80%, 100% { transform: translateX(-50%) translateY(0); }
+  40% { transform: translateX(-50%) translateY(-10px); }
+  60% { transform: translateX(-50%) translateY(-5px); }
+}
+
+@media (max-width: 996px) {
+  .heroContent {
+    flex-direction: column; 
+    text-align: center; 
+    gap: 2rem; 
+    padding: 0 2rem; 
+  }
+  .heroLeft { 
+    text-align: center; 
+  }
+  .heroImage img {
+    width: 80px; 
+    height: 80px; 
+  }
+  .heroTitle { 
+    font-size: 2.5rem; 
+  }
+  .heroSubtitle { 
+    font-size: 1.2rem; 
+  }
+}
