@@ -26,8 +26,8 @@ const config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'Lyscoria', // Usually your GitHub org/user name.
-  projectName: 'Starry-Sakura-Craft', // Usually your repo name.
+  organizationName: 'NewMagnet', // Usually your GitHub org/user name.
+  projectName: 'SSC-webstie', // Usually your repo name.
   deploymentBranch: 'gh-pages',
   onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
@@ -133,7 +133,7 @@ const config = {
             position: 'left'
           },
           {
-            href: 'https://github.com/Lyscoria/Starry-Sakura-Craft',
+            href: 'https://github.com/NewMagnet/SSC-website',
             label: 'GitHub',
             position: 'right',
           },
