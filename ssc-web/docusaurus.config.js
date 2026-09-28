@@ -118,6 +118,11 @@ const config = {
             position: 'left',
           },
           {
+            to: 'docs/stronghold',
+            label: '128要塞汇总👁',
+            position: 'left',
+          },
+          {
             to: 'docs/bingo',
             label: 'bingo功能汉化🌐', 
             position: 'left'
@@ -179,6 +184,10 @@ const config = {
               {
                 label: 'Video',
                 to: 'docs/video',
+              },
+              {
+                label: 'Stronghold',
+                to: 'docs/stronghold',
               },
             ],
           },

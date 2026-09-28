@@ -12,9 +12,9 @@
   {
     "id": 2,
     "name": "LiFr",
-    "description": "各个领域都有所涉猎的菜菜萌新<br/><a href=\"https://space.bilibili.com/332888795\">B站主页</a>",
+    "description": "各个领域都有所涉猎的超级大佬<br/><a href=\"https://space.bilibili.com/332888795\">B站主页</a>",
     "role": "Li4",
-    "skills": ["建筑","指令","红石"],
+    "skills": ["建筑","指令","红石","跑酷"],
     "docPath": "/docs/服成员简介/LiFr",
     "avatar": "https://littleskin.cn/avatar/player/LiFr",
     "cardImage": "/img/person/LiFr-card.png"
@@ -62,9 +62,9 @@
   {
     "id": 7,
     "name": "H_ILLusion",
-    "description": "《甲乙两队同时施工》<br/><a href=\"https://space.bilibili.com/1772862057\">B站主页</a><br/>（乱入：感谢大佬带我打乌蒙！ QAQ",
+    "description": "《甲乙两队同时施工》<br/><a href=\"https://space.bilibili.com/1772862057\">B站主页</a><br/></a> <a href=\"http://live.bilibili.com/1755258814\">B站直播间</a>",
     "role": "光的对立面",
-    "skills": ["建筑", "难道说？"],
+    "skills": ["建筑", "难道说？","跑酷"],
     "docPath": "/docs/服成员简介/H_ILLusion",
     "avatar": "https://littleskin.cn/avatar/player/H_ILLusion",
     "cardImage": "/img/person/H_ILLusion-card.png"
@@ -72,7 +72,7 @@
   {
     "id": 8,
     "name": "HdgFlsh",
-    "description": "服务端资源包配置支持，全能后勤，省实验计划致德楼负责人<br/><a href=\"https://space.bilibili.com/398169827\">B站主页</a>",
+    "description": "服务端资源包配置支持，全能后勤，省实验计划致德楼负责人<br/><a href=\"https://space.bilibili.com/398169827\">B站主页</a> <a href=\"http://live.bilibili.com/1963653457\">B站直播间</a>",
     "role": "哈德狗鱼",
     "skills": ["建筑","后勤","服务端配置"],
     "docPath": "/docs/服成员简介/HdgFlsh",
@@ -101,6 +101,66 @@
   },
   {
     "id": 11,
+    "name": "zeta2",
+    "description": "SSC掌管地狱大厅与泥土的神</del><br/><a href=\"https://space.bilibili.com/2098705830\">B站主页</a>",
+    "role": "泥土",
+    "skills": ["建筑"],
+    "docPath": "/docs/服成员简介/zeta2",
+    "avatar": "https://littleskin.cn/avatar/player/zeta2",
+    "cardImage": "/img/person/zeta2-card.png"
+  },
+  {
+    "id": 12,
+    "name": "nameatrip",
+    "description": "历二友军</del><br/><a href=\"https://space.bilibili.com/382769011\">B站主页</a>",
+    "role": "nmt",
+    "skills": ["建筑"],
+    "docPath": "/docs/服成员简介/nameatrip",
+    "avatar": "https://littleskin.cn/avatar/player/nameatrip",
+    "cardImage": "/img/person/nameatrip-card.png"
+  },
+  {
+    "id": 13,
+    "name": "haiyueh_hyyjs",
+    "description": "又一位掌管生电的大佬</del><br/><a href=\"https://space.bilibili.com/1867781114\">B站主页</a>",
+    "role": "海月",
+    "skills": ["红石"],
+    "docPath": "/docs/服成员简介/haiyueh_hyyjs",
+    "avatar": "https://littleskin.cn/avatar/player/haiyueh_hyyjs",
+    "cardImage": "/img/person/haiyueh_hyyjs-card.png"
+  },
+  {
+    "id": 14,
+    "name": "Swimming_pool",
+    "description": "泳池超级PVP派对！</del><br/><a href=\"https://space.bilibili.com/3493121583220769\">B站主页</a>",
+    "role": "游泳池",
+    "skills": ["PVP","建筑"],
+    "docPath": "/docs/服成员简介/Swimming_pool",
+    "avatar": "https://littleskin.cn/avatar/player/Swimming_pool",
+    "cardImage": "/img/person/Swimming_pool-card.png"
+  },
+  {
+    "id": 15,
+    "name": "lijs_",
+    "description": "新生代最佳后勤</del><br/><a href=\"https://space.bilibili.com/3494364986739165\">B站主页</a>",
+    "role": "lijs",
+    "skills": ["后勤"],
+    "docPath": "/docs/服成员简介/lijs_",
+    "avatar": "https://littleskin.cn/avatar/player/lijs_",
+    "cardImage": "/img/person/lijs_-card.png"
+  },
+  {
+    "id": 16,
+    "name": "Pluto_St",
+    "description": "新海城边的种地小伙（雾）</del><br/><a href=\"https://space.bilibili.com/3494357642513196\">B站主页</a>",
+    "role": "Pluto",
+    "skills": ["建筑"],
+    "docPath": "/docs/服成员简介/Pluto_St",
+    "avatar": "https://littleskin.cn/avatar/player/Pluto_St",
+    "cardImage": "/img/person/Pluto_St-card.png"
+  },
+  {
+    "id": 17,
     "name": "sedatemickey",
     "description": "SSC服务器配置与插件的技术之神<br/><a href=\"https://space.bilibili.com/126049979\">B站主页</a>",
     "role": "Mickey",
@@ -110,7 +170,7 @@
     "cardImage": "/img/person/sedatemickey-card.png"
   },
   {
-    "id": 12,
+    "id": 18,
     "name": "r000",
     "description": "SSC掌管轰炸机的神<br/><a href=\"https://space.bilibili.com/502083780\">B站主页</a>",
     "role": "凯爷",
@@ -120,7 +180,7 @@
     "cardImage": "/img/person/r000-card.png"
   },
   {
-    "id": 13,
+    "id": 19,
     "name": "White_Shiroko",
     "description": "为SSC播下了二游建筑的种子<br/><a href=\"https://space.bilibili.com/3494365102082859\">B站主页</a>",
     "role": "白子",
@@ -130,7 +190,7 @@
     "cardImage": "/img/person/White_Chessman-card.png"
   },
   {
-    "id": 14,
+    "id": 20,
     "name": "Featheraaa",
     "description": "羊驼小队队长<br/><a href=\"https://space.bilibili.com/581657800\">B站主页</a>",
     "role": "羽毛",
@@ -140,7 +200,7 @@
     "cardImage": "/img/person/Featheraaa-card.png"
   },
   {
-    "id": 15,
+    "id": 21,
     "name": "MinecraftBC",
     "description": "服务器掌管TNT的神<br/><a href=\"https://space.bilibili.com/1045809793\">B站主页</a>",
     "role": "BC",
@@ -150,7 +210,7 @@
     "cardImage": "/img/person/MinecraftBC-card.png"
   },
   {
-    "id": 16,
+    "id": 22,
     "name": "MarkBirdFly",
     "description": "服务器插件支持与小游戏地图赞助<br/><a href=\"https://space.bilibili.com/696361004\">B站主页</a>",
     "role": "MBF",
@@ -160,7 +220,7 @@
     "cardImage": "/img/person/MarkBirdFly-card.png"
   },
   {
-    "id": 17,
+    "id": 23,
     "name": "Sakaue_Sakura",
     "description": "1.16.1专业速通玩家<br/><a href=\"https://space.bilibili.com/400070584\">B站主页</a> <a href=\"https://live.bilibili.com/1970740920\">B站直播间</a>",
     "role": "sakura酱",
@@ -170,7 +230,17 @@
     "cardImage": "/img/person/Sakaue_Sakura-card.png"
   },
   {
-    "id": 18,
+    "id": 24,
+    "name": "theblueqim_",
+    "description": "速通&生电大佬<br/><a href=\"https://space.bilibili.com/400070584\">B站主页</a> <a href=\"https://live.bilibili.com/1970740920\">B站直播间</a>",
+    "role": "tbq",
+    "skills": ["速通","红石"],
+    "docPath": "/docs/服成员简介/theblueqim_",
+    "avatar": "https://littleskin.cn/avatar/player/theblueqim_",
+    "cardImage": "/img/person/theblueqim_-card.png"
+  },
+  {
+    "id": 25,
     "name": "Ktyo_",
     "description": "究极密室杀手<br/><a href=\"https://space.bilibili.com/620056502\">B站主页</a>",
     "role": "Kyto",
@@ -180,7 +250,7 @@
     "cardImage": "/img/person/Ktyo_-card.png"
   },
   {
-    "id": 19,
+    "id": 26,
     "name": "192024stx",
     "description": "最伟大的工人！<br/><a href=\"https://space.bilibili.com/3546756046391592\">B站主页</a>",
     "role": "stx",
@@ -190,7 +260,7 @@
     "cardImage": "/img/person/192024stx-card.png"
   },
   {
-    "id": 20,
+    "id": 7,
     "name": "C1fErA",
     "description": "欢迎光临小酒馆！<br/><a href=\"https://space.bilibili.com/512131051\">B站主页</a> <a href=\"https://live.bilibili.com/1791269014\">B站直播间</a>",
     "role": "薯薯",
@@ -200,7 +270,7 @@
     "cardImage": "/img/person/ShUodeDa0lI-card.png"
   },
   {
-    "id": 21,
+    "id": 28,
     "name": "LiFv",
     "description": "LiFr的弟弟，小建筑热爱者",
     "role": "Li5",
@@ -210,9 +280,9 @@
     "cardImage": "/img/person/LiFv-card.png"
   },
   {
-    "id": 22,
+    "id": 29,
     "name": "switch7",
-    "description": "EverStay的同学，蠢猪一只",
+    "description": "EverStay的同学，蠢猪一只<br/><a href=\"https://space.bilibili.com/387722284\">B站主页</a>",
     "role": "switch",
     "skills": ["蠢猪","建筑"],
     "docPath": "/docs/服成员简介/switch7", 
@@ -220,7 +290,7 @@
     "cardImage": "/img/person/switch7-card.png"
   },
   {
-    "id": 22,
+    "id": 30,
     "name": "a350_ti",
     "description": "LDC服务器腐竹<br/><a href=\"https://space.bilibili.com/396751291\">B站主页</a>",
     "role": "swk",
